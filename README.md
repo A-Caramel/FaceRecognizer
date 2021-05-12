@@ -1,5 +1,5 @@
 # FaceRecognizer
-# By: Alfredo Benavides
+# By: Alfredo Benavides, Zhuowen Zhu, Nanda Htet
 
 Includes 2 scripts: FaceRecognizer utilizing FaceCascades with SVM and user customizable database
 
